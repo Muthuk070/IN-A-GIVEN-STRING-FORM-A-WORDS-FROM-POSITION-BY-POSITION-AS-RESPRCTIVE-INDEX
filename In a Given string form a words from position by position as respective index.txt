@@ -1,4 +1,4 @@
-                            IN a Given String form a words from position by position as respective index
+                                                   IN a Given String form a words from position by position as respective index
 
 
 public class newone {
